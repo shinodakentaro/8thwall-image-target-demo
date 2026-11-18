@@ -5,7 +5,7 @@
   "type": "PLANAR",
   "properties": {
     "top": 0,
-    "left": 100,
+    "left": 0,
     "width": 600,
     "height": 800,
     "isRotated": false
@@ -16,6 +16,6 @@
     "thumbnailImage": "target3-source_thumbnail.png",
     "luminanceImage": "target3-source_luminance.png"
   },
-  "created": 1794989548551,
-  "updated": 1794989548551
+  "created": 1794990500954,
+  "updated": 1794990500954
 }
