@@ -8,7 +8,9 @@
     "left": 0,
     "width": 600,
     "height": 800,
-    "isRotated": false
+    "isRotated": false,
+    "originalWidth": 800,
+    "originalHeight": 800
   },
   "resources": {
     "originalImage": "target3-source_original.png",
