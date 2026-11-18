@@ -4,13 +4,11 @@
   "name": "target3-source",
   "type": "PLANAR",
   "properties": {
-    "left": 100,
     "top": 0,
+    "left": 100,
     "width": 600,
     "height": 800,
-    "isRotated": true,
-    "originalWidth": 800,
-    "originalHeight": 800
+    "isRotated": false
   },
   "resources": {
     "originalImage": "target3-source_original.png",
@@ -18,6 +16,6 @@
     "thumbnailImage": "target3-source_thumbnail.png",
     "luminanceImage": "target3-source_luminance.png"
   },
-  "created": 1785481765976,
-  "updated": 1785481765976
+  "created": 1794989548551,
+  "updated": 1794989548551
 }
